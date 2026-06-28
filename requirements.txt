@@ -1,0 +1,9 @@
+# Python Terminal Emulator for Linux Mint
+# No external dependencies required - uses Python standard library only
+# Minimum Python version: 3.6+
+
+# Optional: for development and testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+flake8>=4.0.0
+black>=22.0.0
